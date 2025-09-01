@@ -2,7 +2,7 @@
 
 This repository contains my **solutions to LeetCode problems**.  
 Each problem is organized in its own folder with:
-- The **solution code** (C++/Java/Python/etc.)
+- The **solution code** (C++/Python/etc.)
 - A **README.md** containing the problem description and link.
 
 
