@@ -42,3 +42,15 @@ Each problem is organized in its own folder with:
 🔗 [GitHub Profile](https://github.com/NamanBharsakale) • [LinkedIn](https://www.linkedin.com/in/naman-bharsakale-1a7052301/)
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
