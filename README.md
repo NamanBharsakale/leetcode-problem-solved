@@ -58,4 +58,12 @@ Each problem is organized in its own folder with:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
