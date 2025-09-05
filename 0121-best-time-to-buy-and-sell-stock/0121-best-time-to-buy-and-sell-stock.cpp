@@ -9,12 +9,11 @@ public:
         for(int i = 1; i < n;i++)
         {
 
-            if(bestBuy > prices[i])
+            if(prices[i] > bestBuy)
             { 
-                bestBuy = prices[i];
+                maxProfit = max(maxProfit,(prices[i] - bestBuy));
             }
-            maxProfit = max(maxProfit,(prices[i] - bestBuy));
-            
+            bestBuy = min(bestBuy,prices[i]);
         }
 
         return maxProfit;
