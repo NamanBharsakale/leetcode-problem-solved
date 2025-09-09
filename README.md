@@ -53,6 +53,7 @@ Each problem is organized in its own folder with:
 | [0035-search-insert-position](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0238-product-of-array-except-self](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Each problem is organized in its own folder with:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
