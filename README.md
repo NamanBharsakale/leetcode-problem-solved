@@ -53,6 +53,7 @@ Each problem is organized in its own folder with:
 | [0035-search-insert-position](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ Each problem is organized in its own folder with:
 | ------- |
 | [0035-search-insert-position](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Each problem is organized in its own folder with:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
