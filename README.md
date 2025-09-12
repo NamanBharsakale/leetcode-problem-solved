@@ -88,9 +88,14 @@ Each problem is organized in its own folder with:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NamanBharsakale/leetcode-problem-solved/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
